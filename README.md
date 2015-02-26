@@ -12,7 +12,6 @@ module.exports = function () {
             'app/**/*.html'
          ],
          tests: [
-             //Screen SPA tests
              'tests/**/*.js'
          ],
         preprocessors: {
