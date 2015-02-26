@@ -1,0 +1,27 @@
+{
+  "name": "wallaby-ng-html2js-preprocessor",
+  "version": "0.1.0",
+  "description": "Wallaby.js preprocessor to compile AngularJS templates to JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sheltonial/wallaby-ng-html2js-preprocessor.git"
+  },
+  "keywords": [
+    "wallaby-plugin",
+    "wallaby-preprocessor",
+    "wallaby",
+    "angularjs",
+    "angular",
+    "html2js"
+  ],
+  "author": "Andrew Shelton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sheltonial/wallaby-ng-html2js-preprocessor/issues"
+  },
+  "homepage": "https://github.com/sheltonial/wallaby-ng-html2js-preprocessor"
+}
